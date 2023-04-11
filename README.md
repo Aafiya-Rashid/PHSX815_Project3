@@ -1,6 +1,6 @@
 # PHSX815_Project3
 This repository contains two scripts named:
-   1. Project_sigma_comparision.ipynb
+   1. Project_sigma_meas.ipynb
    2. Project3_mu_comparison.ipynb
 
 # Usage
